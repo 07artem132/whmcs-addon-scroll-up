@@ -1,0 +1,7 @@
+#scrollUp {
+    bottom: 20px;
+    right: 20px;
+    height: 50px;
+    width: 50px;
+    background: url({img}) no-repeat;
+}
