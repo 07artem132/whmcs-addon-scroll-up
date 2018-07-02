@@ -12,7 +12,7 @@ function ScrollUp_config() {
 	$config = [
 		"name"        => "Прокрутка в верх",
 		"description" => "",
-		"version"     => "1.0",
+		"version"     => "1",
 		"author"      => "service-voice",
 		"fields"      => [
 			"AdminArea" => [
